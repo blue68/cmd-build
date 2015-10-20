@@ -1,6 +1,6 @@
 {
   "name": "cmd-build",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CMD will convert commonJS format to format",
   "main": "index.js",
   "scripts": {

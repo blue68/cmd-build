@@ -1,0 +1,38 @@
+{
+  "name": "cmd-build",
+  "version": "0.0.1",
+  "description": "CMD will convert commonJS format to format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue68/cmd-build.git"
+  },
+  "keywords": [
+    "cmd",
+    "CMD",
+    "commonJS",
+    "commonJS to CMD"
+  ],
+  "author": {
+    "name": "blune68",
+    "email": "chaoqiang.tian@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blue68/cmd-build/issues"
+  },
+  "homepage": "https://github.com/blue68/cmd-build#readme",
+  "dependencies": {
+    "fs-extra": "^0.24.0",
+    "options-stream": "0.0.8",
+    "uglify-js": "^2.5.0",
+    "underscore": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "expect.js": "*"
+  }
+}

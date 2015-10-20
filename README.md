@@ -17,7 +17,7 @@ npm install cmd-build --save-dev
 
 var FileBuild  = require('cmd-build');
 
-var fileBuidl({
+var fileBuidl = FileBuild({
     exportDir: "./build/",  // 输入文件目录
     exname: ".js",          // 后缀为js文件
     importFile: "",         // 输入参数：可以为js文件或者目录 

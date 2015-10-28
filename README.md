@@ -1,6 +1,6 @@
 # cmd-build  [![Build Status](https://travis-ci.org/blue68/cmd-build.svg?branch=master)](https://travis-ci.org/blue68/cmd-build)
 
-A string replace plugin for gulp
+A commonJS conversion cmd tool
 
 # Install
 
